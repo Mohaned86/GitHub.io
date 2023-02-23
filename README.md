@@ -22,3 +22,8 @@ These are basic projects written in Python. They use various modules such as tki
 
 • University :
               This is basic a web application allows user to display the campus and the state of the campus and the course and the Instructor.
+• Contact me :
+
+• https://www.linkedin.com/in/mohaned-elwali-71480b44/
+
+• https://docs.google.com/document/d/1D7eMuETRjF_UtMAG7uKDctkVE0j-1cdnpSUqRVw9BAs/edit?usp=sharing
