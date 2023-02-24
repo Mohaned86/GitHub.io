@@ -25,6 +25,6 @@ These are basic projects written in Python. They use various modules such as tki
               
 I'll be more than happy to join your team and help, so Contact me :
 
-• Linkden: https://www.linkedin.com/in/mohaned-elwali-71480b44/
+• Linkden: https://www.linkedin.com/in/mohaned-elwali/
 
 • Resume: https://docs.google.com/document/d/1D7eMuETRjF_UtMAG7uKDctkVE0j-1cdnpSUqRVw9BAs/edit?usp=sharing
